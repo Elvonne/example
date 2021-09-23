@@ -2,3 +2,4 @@ Nothing specified, nothing added.
 hint: Maybe you wanted to say 'git add .'?
 hint: Turn this message off by running
 hint: "git config advice.addEmptyPathspec false"
+This is another session added to powershell
